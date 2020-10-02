@@ -19,32 +19,32 @@ about:
   funfacts:
     # funfacts loop
     - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Completed Projects"
+      name : "Palestras"
       count : "349"
       
     # funfacts loop
     - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Lines Of Code"
+      name : "Minicursos"
       count : "35000"
       
     # funfacts loop
     - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Satisfied Customer"
+      name : "Visitas técnicas"
       count : "70"
       
     # funfacts loop
     - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Awards Winner"
+      name : "Mesas redondas"
       count : "15"
       
     # funfacts loop
     - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Satisfied Customer"
+      name : "Pessoas alcançadas"
       count : "75"
       
     # funfacts loop
     - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Awards Winner"
+      name : "Empresas envolvidas"
       count : "20"
       
 ################################ feature #####################################
